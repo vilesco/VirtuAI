@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#181A20</color>
+    <color name="green">#19c37d</color>
+    <color name="login_bg">#f2f2f2</color>
+    <color name="text_color">#ffffff</color>
+
+    <color name="background_night">#181A20</color>
+    <color name="login_bg_night">#35383F</color>
+</resources>
